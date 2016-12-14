@@ -1,0 +1,21 @@
+{
+  "name": "happy-mutt",
+  "version": "1.0.0",
+  "description": "A better way to send and receive mail using mutt in Node.js.",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "keywords": [
+    "email",
+    "mutt"
+  ],
+  "author": "William W Brubaker",
+  "license": "MIT"
+}
